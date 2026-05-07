@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/images/logo.png" alt="OddsOn" width="200" />
+<img width="1254" height="1254" alt="ChatGPT Image May 7, 2026, 11_46_25 AM" src="https://github.com/user-attachments/assets/6aa5bbfd-acee-461f-9311-8c86a1218aac" alt="OddsOn" width="200" />
 
 # OddsOn
 
