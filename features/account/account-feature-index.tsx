@@ -19,6 +19,7 @@ export function AccountFeatureIndex() {
         <View style={appStyles.stack}>
           <View style={appStyles.card}>
             <Text>Connected to {account.label}</Text>
+            <Text style={{ fontSize: 10, fontFamily: 'monospace' }}>{account.address}</Text>
             <AccountFeatureGetBalance address={account.address} />
           </View>
           <AccountFeatureSignIn account={account} />

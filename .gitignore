@@ -29,6 +29,10 @@ yarn-error.*
 # macOS
 .DS_Store
 *.pem
+oracle-devnet.json
+*.keypair.json
+ORACLEKEYPAIR.md
+docs/
 
 # local env files
 .env*.local
